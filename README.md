@@ -9,5 +9,6 @@ Blog de ejemplo para el [curso de Git y Github](https://platzi.com/cursos/git-gi
 - El verdadero anmor por las buenas prácticas.
 - Trucos extravagantes del profesor.
 - Múltiples personalidades de Freddy.
+- Creado por el increible Platzi Team.
 
 Como amable recordatorio **este readme.md es un ejemplo y no debe ser tomado en serio**.
