@@ -11,5 +11,6 @@ Blog de ejemplo para el [curso de Git y Github](https://platzi.com/cursos/git-gi
 - Múltiples personalidades de Freddy.
 - Creado por el increible Platzi Team.
 - Incluye ejemplos en windows, linux y mac.
+- Disponible para todas las edades.
 
 Como amable recordatorio **este readme.md es un ejemplo y no debe ser tomado en serio**.
